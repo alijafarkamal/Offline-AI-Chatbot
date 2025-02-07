@@ -3,14 +3,19 @@
 ## 📌 Overview
 This is an **offline AI chatbot** built with **Tkinter** for the graphical user interface and **Ollama** for AI-powered responses. It supports multiple models like **Gemma:2B** and **Phi-2**, allowing users to chat with an AI assistant completely offline.
 
+## 🔗 **Download the `.exe` File**
+➡️ **[Click Here to Download](https://drive.google.com/file/d/1R_nSVlkWD4PWyQEPXTxQEWQnGC-Wzr7e/view?usp=drive_link)**
+
 ## 🚀 Features
 - **Works Offline** (No Internet Required)
 - **Supports Multiple AI Models** (Gemma & Phi-2)
 - **Easy-to-Use GUI** (Built with Tkinter)
+  ![Screenshot from 2025-02-08 01-52-48](https://github.com/user-attachments/assets/8e713c6e-16b0-4533-81bc-82f670d60ce4)
 - **File Upload Support** (Text, PDF, Word Files)
 - **Copy Response Button** (Quickly Copy AI Output)
 
 ## 📂 Installation Guide
+
 ### ✅ Windows
 #### 1️⃣ Download & Install Dependencies
 - Install **Python** (if not installed): [Download Here](https://www.python.org/downloads/)
@@ -105,4 +110,3 @@ Pull requests are welcome! If you find bugs or have suggestions, feel free to op
 
 ### 📩 Contact
 For any issues or improvements, reach out via [GitHub Issues](https://github.com/alijafarkamal/Offline-AI-Chatbot/issues).
-
